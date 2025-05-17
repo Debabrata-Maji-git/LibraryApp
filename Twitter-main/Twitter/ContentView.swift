@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Twitter
 //
-//  Created by TANMOY ROY on 21/03/24.
+//  created by debabrata
 //
 
 import SwiftUI
